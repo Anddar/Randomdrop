@@ -1,0 +1,6 @@
+name: Randomdrop
+version: '${project.version}'
+main: example.randomdrop.Randomdrop
+api-version: 1.20
+authors: [ Andrew ]
+description: Drops a Diamond at a random location in a chunk that is loaded for the first time. Item will have special effects around itself.

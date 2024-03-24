@@ -1,0 +1,9 @@
+# Random Drop Plugin
+# Developed by Anddar
+# Last Updated: March 23, 2024
+
+# Disable the plugin if you wish
+enabled: true
+
+# The chance for a diamond to be randomly spawn in a chunk. (30 interpreted as 30% or 0.30)
+randomdrop_chance: 30
